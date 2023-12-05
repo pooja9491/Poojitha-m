@@ -1,0 +1,3 @@
+void main()
+char ch='A'
+ptintf("%d\n", ch) 
